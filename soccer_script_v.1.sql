@@ -1,9 +1,9 @@
 /*This project stemmed from a discussion my brother and I had surrounding
 what is considered an "exciting season" for a soccer fan; I downloaded some
 high level data to explore this idea a bit more (Source: Statbunker Football Statistics, 
-please see the link in this project's description on my GitHub Repository). I hope 
-to enhance my work over the next few months, both to search for an answer to 
-our question and to improve my SQL capabilities.*/
+please see the link in this project's description). I hope to enhance my 
+work over the next few months, both to search for an answer to our question
+and to improve my SQL capabilities.*/
 
 
 use soccer_schema;
